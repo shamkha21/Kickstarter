@@ -9,7 +9,7 @@ I preformed this analysis  by first producing a new column in the excel workshee
  ![Year formula](Yearformula.png) 
  Pivot Table 
  The next step was to create a pivot table. I extracted the months out of the year and then created a pivot table including the months, outcomes of the fundraiser, filtering for years and theater.  
- ![alt text]()
+ ![Pivot Table](Pivottable1.png)
 ### Analysis of Outcomes Based on Launch Date
         
 ### Analysis of Outcomes Based on Goals
