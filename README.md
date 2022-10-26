@@ -4,7 +4,7 @@
 The overview of this analysis was to help Louise, a playwright to analyze which factors will lead to a successful fundraising campaign. 
  
  ### Purpose
-The purpose specifically for deliverable one our analysis included theater fundraising outcomes(successful,failed,canceled) based on the launch date of the campaign. Deliverable two analyzed the percent outcomes of the subcategory "plays" based on the goal set for the fundraising campaign. 
+The purpose specifically for deliverable one our analysis included theater fundraising outcomes(successful, failed, canceled) based on the launch date of the campaign. Deliverable two analyzed the percent outcomes of the subcategory "plays" based on the goal set for the fundraising campaign. 
  
  ## Analysis and Challenges 
 
