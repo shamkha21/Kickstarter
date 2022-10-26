@@ -40,7 +40,7 @@ I preformed this analysis  by first producing a new column in the excel workshee
 
 ### Challenges and Difficulties Encountered 
  
- I did not have any challenges with this deliverable. Possible challenges that one could encounter are not accurately extracting the year from the "Date Created Conversion" column. Other potential challenges are not filtering accurately in the pivot table created, or inaccurately assigning row and column variables as well as displaying any other type of graph than the stacked marked line graph.
+ I did not have any challenges with the first deliverable. Possible challenges that one could encounter are not accurately extracting the year from the "Date Created Conversion" column. Other potential challenges are not filtering accurately in the pivot table created, or inaccurately assigning row and column variables as well as displaying any other type of graph than the stacked marked line graph. The second deliverable I had two issues. First, I was including an = sign in my countifs calculation for <1000. Secondly, I had a blank cell highlighted when I was making a graph resulting in an error for my line graph. 
 
 ## Results
 
