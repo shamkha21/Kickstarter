@@ -20,7 +20,7 @@ I preformed this analysis  by first producing a new column in the excel workshee
  #### Line Graph  
   
  To visualize the relationship of theater outcomes based on Launch date I created a line graph. With the pivot table worksheet open click on PivotChart analyze on the ribbon and then select PivotChart. I then selected Design and changed the graph to a stacked marked line graph. 
- ![alt text]()
+ ![Theater Outcomes Line Graph](Theateroutcomes1.png)
 ### Analysis of Outcomes Based on Launch Date
         
 ### Analysis of Outcomes Based on Goals
