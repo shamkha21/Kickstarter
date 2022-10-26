@@ -5,8 +5,11 @@ The overview of this analysis was to help Louise, a playwright analyze which fac
 ### Purpose
 The purpose specifically for deliverable one our analysis included theater fundraising outcomes(successful,failed,canceled) based on the launch date of the campaign. Deliverable two analyzed the percent outcomes of the subcategory "plays" based on the goal set for the fundraising campaign. 
 ## Analysis and Challenges
-I preformed this analysis  by first producing a new column in the excel worksheet called "Date Created Conversion". The purpose of this column was to convert the Unix timestamps into a readable format. I then created a new column called "Year" to extract the year from "Date Created Conversion". I did this by using the function "Year()". In the parenthesis I include the cell number, for this example here it's "(S522)". I then clicked on the black small cross on the bottom right corner which instantly applied the formula to the entire column. I then created a pivot table 
- ![Year formula](Yearformula.png)      
+I preformed this analysis  by first producing a new column in the excel worksheet called "Date Created Conversion". The purpose of this column was to convert the Unix timestamps into a readable format. I then created a new column called "Year" to extract the year from "Date Created Conversion". I did this by using the function "Year()". In the parenthesis I include the cell number, for this example here it's "(S522)". I then clicked on the black small cross on the bottom right corner which instantly applied the formula to the entire column.  
+ ![Year formula](Yearformula.png) 
+ Pivot Table 
+ The next step was to create a pivot table. I extracted the months out of the year and then created a pivot table including the months, outcomes of the fundraiser, filtering for years and theater.  
+ ![alt text]()
 ### Analysis of Outcomes Based on Launch Date
         
 ### Analysis of Outcomes Based on Goals
