@@ -23,7 +23,8 @@ I preformed this analysis  by first producing a new column in the excel workshee
  ![Theater Outcomes Line Graph](Theateroutcomes1.png)  
         
 ### Analysis of Outcomes Based on Goals 
- In a new worksheet I created 8 cells named (Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled. In the "Goal" column I created 12 categories from <1000 to >50000 or more. Using the countifs function I was able to identify number successful, number failed and number canceled for the respective row. Included is an example of the calculation I used. An example of the function is fx=Countifs(worksheet column, "criteria", worksheet column, "critera"..etc). 
+ In a new worksheet I created 8 cells named (Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled. In the "Goal" column I created 12 categories from <1000 to >50000 or more. Using the countifs function I was able to identify number successful, number failed and number canceled for the respective row. Included is an example of the calculation I used. An example of the function is fx=Countifs(worksheet column, "criteria", worksheet column, "critera"..etc).  
+ ![Countif Example](Countifs.png)
  
 
 ### Challenges and Difficulties Encountered 
