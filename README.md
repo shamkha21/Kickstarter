@@ -44,15 +44,16 @@ I preformed this analysis  by first producing a new column in the excel workshee
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+### Conclusions on Outcomes based on Launch Date
  
  One conclusion I can draw about the Outcomes based on Launch Date is there waas a sharp increase in percent successful theater fundraising outcomes from april to may. Another conclusion is there was a steady decline in percent successful fundraising outcomes from april to september, although for those month percent outcomes were still higher than most other months. 
 
-- What can you conclude about the Outcomes based on Goals?
+### Conclusion on Outcome based on Goals
 Most successful campaigns were between <1000 and 24,999. There was a decline and then a outlier of 35,000 to roughly around 40,000.  
 
-- What are some limitations of this dataset?
+### Limitation on Dataset
  Limitations to this database is there's a lot of junk data that we had to filter through. No background on the donors so we know who is more likely to participate in the campaign.  
  
-- What are some other possible tables and/or graphs that we could create? 
- We could created a stack bar graph for Theater Outcomes by Launch Date. We could have used Box and Whiskers for Outcomes Based on Goals to look for outliers. 
+### Alternative Graphs/Tables 
+
+ We could create a stack bar graph for Theater Outcomes by Launch Date. We could have used Box and Whiskers for Outcomes Based on Goals to look for outliers. 
