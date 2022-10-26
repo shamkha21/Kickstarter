@@ -56,4 +56,4 @@ Most successful campaigns were between <1000 and 24,999. There was a decline and
  
 ### Alternative Graphs/Tables 
 
- We could create a stack bar graph for Theater Outcomes by Launch Date. We could have used Box and Whiskers for Outcomes Based on Goals to look for outliers. 
+ We could create a stack bar graph for Theater Outcomes by Launch Date. We could use Box and Whiskers for Outcomes Based on Goals to look for outliers. 
